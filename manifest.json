@@ -1,0 +1,16 @@
+{
+  "name": "Painel De Vendas",
+  "short_name": "pinel Altomatico",
+  "description": "Venda Rapida Em Massa",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#ffff00",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/80/80842.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
