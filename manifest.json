@@ -1,7 +1,7 @@
 {
-  "name": "NOME COMPLETO DO SEU APP",
-  "short_name": "NOME CURTO",
-  "description": "Uma breve descrição do que o app faz",
+  "name": "Painel De Vendas",
+  "short_name": "bot",
+  "description": "bot que faz vendas automaticamente",
   "start_url": "index.html",
   "display": "fullscreen",
   "background_color": "#000000",
